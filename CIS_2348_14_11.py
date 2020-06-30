@@ -1,3 +1,5 @@
+# Joshua Chan
+# 1588459
 def selection_sort_descend_trace(number):
 
     for i in range(len(number) - 1):
